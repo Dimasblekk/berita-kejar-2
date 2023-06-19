@@ -11,9 +11,9 @@ export default function Home() {
       </Head>
 
       <main>
-        <Header title="Welcome to my app!" />
+        <Header title= />
         <p className="description">
-          Get started by editing <code>pages/index.js</code>
+          Dengan mengikuti The 13th IHRS 2023, para peserta mempunyai kesempatan untuk menggali tren, teknologi terkini, serta strategi utama di berbagai ruang sumber daya manusia yang berubah dengan cepat.
         </p>
       </main>
 
